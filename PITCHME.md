@@ -7,9 +7,8 @@ conference =  new knowledge
 
 new knowledge = ![Reward](https://www.leafscience.com/wp-content/uploads/2014/05/marijuana-and-dopamine-2.jpg) 
 
-SRSL: go to conferences. Best - go where you are not expert
-
----
+SRSL: go to conferences. Best - go where you are not expert.
+--- 
 Notes and hihlights from conference
 
 ---
