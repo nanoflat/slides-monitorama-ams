@@ -1,7 +1,7 @@
 # Monitorama Amsterdam  
 
 ---
-#### sWhat I learned about myself:
+#### What I learned about myself:
 
 conference =  new knowledge
 
