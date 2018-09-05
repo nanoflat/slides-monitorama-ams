@@ -5,9 +5,12 @@ What I learned about myself:
 
 conference =  new knowledge
 
-new knowledge = ![Reward](https://www.leafscience.com/wp-content/uploads/2014/05/marijuana-and-dopamine-2.jpg) 
+new knowledge = @snap[east sidebar]
+![Reward](https://www.leafscience.com/wp-content/uploads/2014/05/marijuana-and-dopamine-2.jpg) 
+@snapend
 
 SRSL: go to conferences. Best - go where you are not expert.
+
 --- 
 Notes and hihlights from conference
 
