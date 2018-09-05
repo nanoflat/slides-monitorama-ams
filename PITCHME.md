@@ -5,7 +5,7 @@ What I learned about myself:
 
 conference =  new knowledge
 
-new knowledge = @snap[east sidebar]
+new knowledge = @snap[east splitscreen fragment]
 ![Reward](https://www.leafscience.com/wp-content/uploads/2014/05/marijuana-and-dopamine-2.jpg) 
 @snapend
 
