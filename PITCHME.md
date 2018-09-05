@@ -1,15 +1,22 @@
 # Monitorama Amsterdam  
 
 ---
-#### What I learned about myself:
+@snap[north-west]
+What I learned about myself
+@snapend
+
 @snap[west]
 conference =  new knowledge
+new knowledge = 
 @snapend
-new knowledge = @snap[east splitscreen fragment]
+
+@snap[east jvmarch fragment]
 ![Reward](https://www.leafscience.com/wp-content/uploads/2014/05/marijuana-and-dopamine-2.jpg) 
 @snapend
 
+@snap[south]
 SRSL: go to conferences. Best - go where you are not expert.
+@snapend
 
 --- 
 Notes and hihlights from conference
